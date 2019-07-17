@@ -13,3 +13,9 @@
 4. 컬렉션(반복이 가능한 이터레이블 프로토콜의 객체)은 어떤식으로 다루는게 좋은지
 5. 클로저, 커링은 필수
 6. 리듀스를 사용하는 전략
+
+front = React + Node + Docker + Webpack
+Server = Node + Elastic Search + Redis + MongoDB + Docker
+
+유사도 기반 + AI
+TF-IDF 알고리즘
